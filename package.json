@@ -1,6 +1,6 @@
 {
   "name": "multiply15693",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "multiply any number by 15693",
   "main": "index.js",
   "scripts": {
