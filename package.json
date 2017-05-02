@@ -1,0 +1,18 @@
+{
+  "name": "multiply15693",
+  "version": "0.0.2",
+  "description": "multiply any number by 15693",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "15693",
+    "multiply"
+  ],
+  "author": "Ryan Davison",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
