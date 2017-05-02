@@ -10,6 +10,7 @@ npm install multiply15693
 ## Usage
 ```
 const num = multiply15693.by(3);
+//=> 47079
 ```
 
 ## Why?
