@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "url": "https://github.com/RyanDavison/multiply15693",
+    "type": "git"
+  },
   "keywords": [
     "15693",
     "multiply"
